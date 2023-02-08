@@ -46,5 +46,9 @@ public class Sorter {
             System.out.print(arr[i]+" ");
         System.out.println();
     }
+
+    void sort(int array[]){
+        selctionsort(array);
+    }
 }
  
