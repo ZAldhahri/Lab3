@@ -48,6 +48,10 @@ public class Sorter {
     }
 
     void sort(int array[]){
+        insertionSort(array);
+    } 
+
+    void sort(int array[]){
         selctionsort(array);
     }
 }
