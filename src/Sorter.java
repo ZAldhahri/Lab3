@@ -16,7 +16,7 @@ public class Sorter {
             array[i+1] = key;  
         }  
     }  
-    void sort(int arr[])
+    void selctionsort(int arr[])
     {
         int n = arr.length;
  
