@@ -47,7 +47,7 @@ public class Sorter {
         System.out.println();
     }
 
-    void sort(int array[]){
+    void sort1(int array[]){
         insertionSort(array);
     } 
 
